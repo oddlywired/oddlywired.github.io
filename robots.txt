@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oddlywired.github.io/sitemap.xml
