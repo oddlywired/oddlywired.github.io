@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://oddlywired.github.io/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-assume-that-people-act-according-to-their-nature/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-think-your-past-tastes-are-a-map-of-your-future/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-predict-future-happiness-based-on-your-current-physical-state/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-struggle-to-understand-that-others-know-what-you-don-t/</loc></url>
+<url><loc>https://oddlywired.github.io/f/your-expectations-of-someone-actually-dictate-how-they-treat-you/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-are-surprised-by-the-law-of-truly-large-numbers/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-follow-successful-people-even-when-their-methods-are-flawed/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-think-faces-are-everywhere-because-your-brain-is-overactive/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-see-patterns-that-do-not-actually-exist-in-data/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-create-stories-to-fill-in-missing-information/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-value-things-more-if-you-had-to-work-for-them/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-stop-being-curious-the-moment-you-name-something/</loc></url>
+<url><loc>https://oddlywired.github.io/f/the-first-attribute-you-notice-determines-your-entire-assessment/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-judge-people-by-their-intent-not-their-results/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-are-more-honest-when-you-feel-observed-by-eyes/</loc></url>
+<url><loc>https://oddlywired.github.io/f/your-preferences-change-based-on-the-choices-you-ignore/</loc></url>
+<url><loc>https://oddlywired.github.io/f/you-perform-worse-when-you-try-to-consciously-control-movement/</loc></url>
+<url><loc>https://oddlywired.github.io/f/your-brain-interprets-sound-as-a-visual-flash/</loc></url>
 <url><loc>https://oddlywired.github.io/f/you-ignore-the-math-when-certainty-is-on-the-table/</loc></url>
 <url><loc>https://oddlywired.github.io/f/you-change-your-mind-when-you-cannot-use-tools/</loc></url>
 <url><loc>https://oddlywired.github.io/f/you-see-motion-in-lights-that-stay-perfectly-still/</loc></url>
@@ -861,6 +879,7 @@
 <url><loc>https://oddlywired.github.io/t/biology/</loc></url>
 <url><loc>https://oddlywired.github.io/t/brain/</loc></url>
 <url><loc>https://oddlywired.github.io/t/bystander-effect/</loc></url>
+<url><loc>https://oddlywired.github.io/t/categorization/</loc></url>
 <url><loc>https://oddlywired.github.io/t/choice/</loc></url>
 <url><loc>https://oddlywired.github.io/t/choice-blindness/</loc></url>
 <url><loc>https://oddlywired.github.io/t/choices/</loc></url>
@@ -888,6 +907,7 @@
 <url><loc>https://oddlywired.github.io/t/embodiment/</loc></url>
 <url><loc>https://oddlywired.github.io/t/emotion/</loc></url>
 <url><loc>https://oddlywired.github.io/t/emotions/</loc></url>
+<url><loc>https://oddlywired.github.io/t/empathy/</loc></url>
 <url><loc>https://oddlywired.github.io/t/environment/</loc></url>
 <url><loc>https://oddlywired.github.io/t/ethics/</loc></url>
 <url><loc>https://oddlywired.github.io/t/evaluation/</loc></url>
@@ -905,6 +925,7 @@
 <url><loc>https://oddlywired.github.io/t/heuristics/</loc></url>
 <url><loc>https://oddlywired.github.io/t/hindsight/</loc></url>
 <url><loc>https://oddlywired.github.io/t/hindsight-bias/</loc></url>
+<url><loc>https://oddlywired.github.io/t/honesty/</loc></url>
 <url><loc>https://oddlywired.github.io/t/identity/</loc></url>
 <url><loc>https://oddlywired.github.io/t/illusion-of-control/</loc></url>
 <url><loc>https://oddlywired.github.io/t/impulse/</loc></url>
@@ -934,6 +955,7 @@
 <url><loc>https://oddlywired.github.io/t/neuroscience/</loc></url>
 <url><loc>https://oddlywired.github.io/t/optimism/</loc></url>
 <url><loc>https://oddlywired.github.io/t/ownership/</loc></url>
+<url><loc>https://oddlywired.github.io/t/pattern-recognition/</loc></url>
 <url><loc>https://oddlywired.github.io/t/perception/</loc></url>
 <url><loc>https://oddlywired.github.io/t/performance/</loc></url>
 <url><loc>https://oddlywired.github.io/t/personality/</loc></url>
@@ -966,6 +988,7 @@
 <url><loc>https://oddlywired.github.io/t/social-psychology/</loc></url>
 <url><loc>https://oddlywired.github.io/t/social-dynamics/</loc></url>
 <url><loc>https://oddlywired.github.io/t/spotlight-effect/</loc></url>
+<url><loc>https://oddlywired.github.io/t/status/</loc></url>
 <url><loc>https://oddlywired.github.io/t/stress/</loc></url>
 <url><loc>https://oddlywired.github.io/t/technology/</loc></url>
 <url><loc>https://oddlywired.github.io/t/thinking/</loc></url>
